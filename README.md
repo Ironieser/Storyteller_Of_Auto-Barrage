@@ -1,4 +1,3 @@
-# The_Best_Auto_Delivery_Barrage_Tool
 # 斗鱼独轮车插件V1.0（JS版）
 # The_Best_Auto_Delivery_Barrage_Tool_V1.0_JS
 ## 简要介绍：
@@ -70,11 +69,11 @@
 				>>要真是这样的君父，万民弃之！
 ********************************************************************
 **********************************************************************
-# 最后
-
+# 最后	
+	
 	如您需要提交Bug，或有任何意见和建议	
 	请联系我，或前往本项目的Github进行反馈，谢谢！	
 	作者:Ironieser丶
 	斗鱼ID：祖冲之丶丶
 	Email：ironieser@mail.com
-	项目Github：https://github.com/Ironieser/The_Best_Auto_Delivery_Barrage_Tool
+	项目Github：https://github.com/Ironieser/The_Best_Auto_Delivery_Barrage_Tool**
