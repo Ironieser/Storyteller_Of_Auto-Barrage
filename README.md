@@ -3,13 +3,13 @@
 自动发送弹幕插件，可编辑多项参数，详细的提示信息。使用本插件请著名出处。
 
 
-				【斗鱼独轮车插件V1.0（JS版）】
-	
-                                        作者：Ironieser丶 
-                                        斗鱼ID：祖冲之丶丶
-                                      Email:ironieser@gmail.com
-                                      项目Github：
-                                                2020/2/5
+					【斗鱼独轮车插件V1.0（JS版）】
+
+									作者：Ironieser丶 
+									斗鱼ID：祖冲之丶丶
+									Email:ironieser@gmail.com
+			项目Github：https://github.com/Ironieser/The_Best_Auto_Delivery_Barrage_Tool
+										2020/2/5
 ***************************************************************
 ***************************************************************
 打开浏览器！F12打开开发者工具！在Console下，粘贴代码，敲回车运行！
@@ -69,4 +69,4 @@
 	作者:Ironieser丶
 	斗鱼ID：祖冲之丶丶
 	Email：ironieser@mail.com
-	项目Github：待补充
+	项目Github：https://github.com/Ironieser/The_Best_Auto_Delivery_Barrage_Tool
