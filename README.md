@@ -1,4 +1,4 @@
-# The-Best-Auto-Delivery-Barrage-Tool-V1.0-JS-
+# The_Best_Auto_Delivery_Barrage_Tool
 
 自动发送弹幕插件，可编辑多项参数，详细的提示信息。使用本插件请著名出处。
 
