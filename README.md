@@ -83,4 +83,4 @@
 **作者:Ironieser丶**    	
 **斗鱼ID：祖冲之丶丶**    
 **Email：ironieser@mail.com**    
-**项目Github：github.com/Ironieser/Storyteller_Of_Auto-Barrage**    
+**项目Github：https://github.com/Ironieser/Storyteller_Of_Auto-Barrage**    
