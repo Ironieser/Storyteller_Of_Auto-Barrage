@@ -55,9 +55,10 @@
 		（1）start()：	开启独轮车（脚本加载后，默认自动开启）
 		（2）stop():	停止独轮车；
 		（3）get_new_story():读取新的小说【未完成，请勿使用】
-		（4）reset():重置所有数值参数
-		（5）init_story:重置小说
-		（6）print_JS_information():显示脚本信息
+		（4）restart():重启独轮车
+		（5）reset():重置所有数值参数
+		（6）init_story:重置小说
+		（7）print_JS_information():显示脚本信息
 
 	数值参数：
 		（1）danmu_long:更改弹幕长度；建议（20~40）
