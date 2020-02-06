@@ -72,4 +72,4 @@
 **作者:Ironieser丶**    	
 **斗鱼ID：祖冲之丶丶**    
 **Email：ironieser@mail.com**    
-**项目Github：https://github.com/Ironieser/The_Best_Auto_Delivery_Barrage_Tool**    
+**项目Github：github.com/Ironieser/Storyteller_Of_Auto-Barrage**    
