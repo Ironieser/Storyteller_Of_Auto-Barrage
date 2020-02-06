@@ -1,5 +1,5 @@
 # 自动弹幕说书人V1.0（JS版）
-# Storyteller Of Auto-Barrage_V1.0_JS
+# Storyteller Of Auto-Barrage_V1.0_JS.js
 **提示：目前仅适用于斗鱼，其他直播平台待后续更新**  
 
 
